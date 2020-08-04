@@ -1,6 +1,6 @@
 # Graph-theory-algorithms-with-Python
 Implementation of graph theory algorithms from scratch using python
-<al>a
+<ol>a
   <li>b
     <li>c
-      </al>
+      </ol>
