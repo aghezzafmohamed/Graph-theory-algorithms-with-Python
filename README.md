@@ -1,5 +1,6 @@
 # Graph-theory-algorithms-with-Python
 Implementation of graph theory algorithms from scratch using python
+## Table of contents
 <dl>
   <dt>Graph</dt>
   <dd>Creating a graph</dd>
